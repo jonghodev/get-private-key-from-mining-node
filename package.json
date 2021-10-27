@@ -1,0 +1,15 @@
+{
+  "name": "get-private-key-from-mining-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}
